@@ -1,0 +1,10 @@
+{
+  "name": "hw-render",
+  "private": true,
+  "version": "1.0.0",
+  "description": "把每题一个 HTML 用本机 Chrome 截成 PNG（MathJax 负责排版）",
+  "dependencies": {
+    "mathjax": "^3.2.2",
+    "puppeteer-core": "^24.0.0"
+  }
+}
