@@ -1,0 +1,8 @@
+# npm 依赖，76MB，别提交。新环境跑一次 hw_render.py 会自动 npm install
+scripts/node_modules/
+
+# 运行时产物
+scripts/html/
+scripts/_jobs.json
+__pycache__/
+*.pyc
